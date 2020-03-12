@@ -1,4 +1,3 @@
-def my_collect(array) do |name|
-  name.split(" ").first
+def my_collect(array)
 
 end
